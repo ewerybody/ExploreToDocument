@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=exploretodocument
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=ExploreToDocument
+Comment=Open up the directory containing the current file in filebrowser
